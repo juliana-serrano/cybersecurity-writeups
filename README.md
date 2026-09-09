@@ -4,9 +4,9 @@ CS student at UW Bothell building hands-on cybersecurity skills through home lab
 
 ## Currently working on
 
-* Building a home lab (VitrualBox, Kali Linux, Metasploitable2)
+* Building a home lab (VitrualBox, Kali Linux, Metasploitable2, Windows 11)
 * Studying for CompTIA Network+
-* TryHackMe Pre Security path
+* TryHackMe rooms
 
 ## What's in here
 
