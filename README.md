@@ -7,6 +7,7 @@ CS student at UW Bothell building hands-on cybersecurity skills through home lab
 * Building and troubleshooting a home lab (VitrualBox: Kali Linux, Metasploitable2, Windows 11)
 * Studying for CompTIA Network+
 * TryHackMe Pre Security path + supplementary free rooms
+- OverTheWire Bandit (Linux fundamentals wargame)
 
 ## What's in here
 
